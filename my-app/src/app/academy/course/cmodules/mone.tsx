@@ -153,7 +153,7 @@ export function Mone() {
               className="bg-primary hover:bg-primary/90"
               asChild
             >
-              <Link href="/academy/course/moduleonelessonone">
+              <Link href="/academy/course/lessons/moduleone">
                 <PanelsLeftBottom className="h-4 w-4 mr-2" />
                 View Lesson Now
               </Link>
