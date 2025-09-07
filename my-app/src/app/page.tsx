@@ -46,8 +46,11 @@ export default function Home() {
           <Button variant="default" asChild>
             <Link href="/">Services</Link>
           </Button>
-          <Button variant="ghost" asChild>
+          <Button variant="default" asChild>
             <Link href="/">Portfolio</Link>
+          </Button>
+          <Button variant="default" asChild>
+            <Link href="/academy">Academy</Link>
           </Button>
         </div>
       </main>
